@@ -1,4 +1,4 @@
-#  TP 2 Inteligencia Artificial 🧪
+#  TP 3 Inteligencia Artificial 🧪
 
 Introducción
 El objetivo para esta actividad es:
